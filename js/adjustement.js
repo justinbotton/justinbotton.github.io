@@ -351,4 +351,36 @@ $(document).ready(function(){
             heightStyle: "fill"
         });
     });
+
+    $('#big-data').click(function(event) {
+        event.preventDefault();
+        $("#dialog_big-data").dialog({
+            title: "Big Data Conference",
+            modal: true,
+            width: 800,
+            height: 600,
+            resizable: false,
+            draggable: false,
+            buttons: [
+                {
+                    text: "Close",
+                    click: function() {
+                        $( this ).dialog( "close" );
+                    }
+                }
+            ],
+            show: {
+                effect: 'fade',
+                speed: 1500
+            },
+            hide: {
+                effect: 'fade',
+                speed: 500
+            },
+        });
+        $('#tabs_12').tabs({
+            active: 0,
+            heightStyle: "fill"
+        });
+    });
 });
