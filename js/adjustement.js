@@ -447,4 +447,36 @@ $(document).ready(function(){
             heightStyle: "fill"
         });
     });
+
+    $('#odoo-cloud').click(function(event) {
+        event.preventDefault();
+        $("#dialog_odoo-cloud").dialog({
+            title: "Project Presentation",
+            modal: true,
+            width: 800,
+            height: 600,
+            resizable: false,
+            draggable: false,
+            buttons: [
+                {
+                    text: "Close",
+                    click: function() {
+                        $( this ).dialog( "close" );
+                    }
+                }
+            ],
+            show: {
+                effect: 'fade',
+                speed: 1500
+            },
+            hide: {
+                effect: 'fade',
+                speed: 500
+            },
+        });
+        $('#tabs_15').tabs({
+            active: 0,
+            heightStyle: "fill"
+        });
+    });
 });
