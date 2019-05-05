@@ -456,7 +456,7 @@ $(document).ready(function(){
             maxWidth: 800,
             width: '40%',
             maxHeight: 600,
-            height: '40%',
+            height: 'auto',
             resizable: false,
             draggable: false,
             buttons: [
