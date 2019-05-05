@@ -454,11 +454,11 @@ $(document).ready(function(){
             title: "Project Presentation",
             modal: true,
             maxWidth: 800,
-            width: '40%',
+            width: '60%',
             maxHeight: 600,
             height: 'auto',
             resizable: false,
-            draggable: false,
+            draggable: true,
             buttons: [
                 {
                     text: "Close",
