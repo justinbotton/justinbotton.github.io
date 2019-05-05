@@ -454,6 +454,7 @@ $(document).ready(function(){
             title: "Project Presentation",
             modal: true,
             width: 'auto',
+            minWidth: 400,
             maxWidth: 800,
             height: 600,
             resizable: false,
