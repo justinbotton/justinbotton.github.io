@@ -453,8 +453,8 @@ $(document).ready(function(){
         $("#dialog_odoo-cloud").dialog({
             title: "Project Presentation",
             modal: true,
-            width: 800,
-            height: 600,
+            width: auto,
+            height: auto,
             resizable: false,
             draggable: false,
             buttons: [
