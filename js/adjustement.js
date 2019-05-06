@@ -419,7 +419,7 @@ $(document).ready(function(){
     $('#cisco').click(function(event) {
         event.preventDefault();
         $("#dialog_cisco").dialog({
-            title: "Project Presentation",
+            title: "Cisco incubator",
             modal: true,
             width: 800,
             height: 600,
@@ -451,7 +451,7 @@ $(document).ready(function(){
     $('#odoo-cloud').click(function(event) {
         event.preventDefault();
         $("#dialog_odoo-cloud").dialog({
-            title: "Project Presentation",
+            title: "Odoo cloud hosting",
             modal: true,
             width: 800,
             height: 600,
@@ -475,6 +475,37 @@ $(document).ready(function(){
             },
         });
         $('#tabs_15').tabs({
+            active: 0,
+            heightStyle: "fill"
+        });
+    });
+    $('#speed-dating').click(function(event) {
+        event.preventDefault();
+        $("#dialog_speed-dating").dialog({
+            title: "Speed dating",
+            modal: true,
+            width: 800,
+            height: 600,
+            resizable: false,
+            draggable: true,
+            buttons: [
+                {
+                    text: "Close",
+                    click: function() {
+                        $( this ).dialog( "close" );
+                    }
+                }
+            ],
+            show: {
+                effect: 'fade',
+                speed: 1500
+            },
+            hide: {
+                effect: 'fade',
+                speed: 500
+            },
+        });
+        $('#tabs_16').tabs({
             active: 0,
             heightStyle: "fill"
         });
