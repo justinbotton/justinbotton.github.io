@@ -1437,3 +1437,7 @@ fieldset[disabled] .btn-theme {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
+.analysis p{
+  font-size: 1.5em;
+}
