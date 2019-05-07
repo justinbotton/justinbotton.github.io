@@ -510,4 +510,66 @@ $(document).ready(function(){
             heightStyle: "fill"
         });
     });
+    $('#projet-integration').click(function(event) {
+        event.preventDefault();
+        $("#dialog_projet-integration").dialog({
+            title: "Company building",
+            modal: true,
+            width: 800,
+            height: 600,
+            resizable: false,
+            draggable: true,
+            buttons: [
+                {
+                    text: "Close",
+                    click: function() {
+                        $( this ).dialog( "close" );
+                    }
+                }
+            ],
+            show: {
+                effect: 'fade',
+                speed: 1500
+            },
+            hide: {
+                effect: 'fade',
+                speed: 500
+            },
+        });
+        $('#tabs_17').tabs({
+            active: 0,
+            heightStyle: "fill"
+        });
+    });
+    $('#international-week').click(function(event) {
+        event.preventDefault();
+        $("#dialog_international-week").dialog({
+            title: "International Week",
+            modal: true,
+            width: 800,
+            height: 600,
+            resizable: false,
+            draggable: true,
+            buttons: [
+                {
+                    text: "Close",
+                    click: function() {
+                        $( this ).dialog( "close" );
+                    }
+                }
+            ],
+            show: {
+                effect: 'fade',
+                speed: 1500
+            },
+            hide: {
+                effect: 'fade',
+                speed: 500
+            },
+        });
+        $('#tabs_18').tabs({
+            active: 0,
+            heightStyle: "fill"
+        });
+    });
 });
