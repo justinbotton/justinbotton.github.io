@@ -3,7 +3,7 @@ $(document).ready(function(){
     $('#bi').click(function(event) {
         event.preventDefault();
         $("#dialog_bi").dialog({
-            title: "BI Training",
+            title: "BI Training - 2 days",
             modal: true,
             width: 800,
             height: 600,
@@ -35,7 +35,7 @@ $(document).ready(function(){
     $('#c_sharp').click(function(event) {
         event.preventDefault();
         $("#dialog_c_sharp").dialog({
-            title: "C#",
+            title: "C# - 1 week",
             modal: true,
             width: 800,
             height: 600,
@@ -67,7 +67,7 @@ $(document).ready(function(){
     $('#react').click(function(event) {
         event.preventDefault();
         $("#dialog_react").dialog({
-            title: "React JS",
+            title: "React JS - 3 days",
             modal: true,
             width: 800,
             height: 600,
@@ -99,7 +99,7 @@ $(document).ready(function(){
     $('#tuto').click(function(event) {
         event.preventDefault();
         $("#dialog_tuto").dialog({
-            title: "Support teacher",
+            title: "Support teacher  - 58 hours",
             modal: true,
             width: 800,
             height: 600,
@@ -131,7 +131,7 @@ $(document).ready(function(){
     $('#c').click(function(event) {
         event.preventDefault();
         $("#dialog_c").dialog({
-            title: "C programming",
+            title: "C",
             modal: true,
             width: 800,
             height: 600,
@@ -163,7 +163,7 @@ $(document).ready(function(){
     $('#representative').click(function(event) {
         event.preventDefault();
         $("#dialog_representative").dialog({
-            title: "IT EPHEC branch representative at Students Fair 2019",
+            title: "IT EPHEC branch representative at SIEP 2019 - 4 hours",
             modal: true,
             width: 800,
             height: 600,
@@ -195,7 +195,7 @@ $(document).ready(function(){
     $('#xamarin').click(function(event) {
         event.preventDefault();
         $("#dialog_xamarin").dialog({
-            title: "Xamarin",
+            title: "Xamarin - 4 hours",
             modal: true,
             width: 800,
             height: 600,
@@ -227,7 +227,7 @@ $(document).ready(function(){
     $('#odoo-devday').click(function(event) {
         event.preventDefault();
         $("#dialog_odoo-devday").dialog({
-            title: "Odoo Developper Day",
+            title: "Odoo Developper Day - 4 hours",
             modal: true,
             width: 800,
             height: 600,
@@ -259,7 +259,7 @@ $(document).ready(function(){
     $('#hackjam').click(function(event) {
         event.preventDefault();
         $("#dialog_hackjam").dialog({
-            title: "HackJam ReactJS",
+            title: "HackJam ReactJS - 3 hours",
             modal: true,
             width: 800,
             height: 600,
@@ -291,7 +291,7 @@ $(document).ready(function(){
     $('#bewan').click(function(event) {
         event.preventDefault();
         $("#dialog_bewan").dialog({
-            title: "BeWan",
+            title: "BeWan - 3 hours",
             modal: true,
             width: 800,
             height: 600,
@@ -323,7 +323,7 @@ $(document).ready(function(){
     $('#it-job-day').click(function(event) {
         event.preventDefault();
         $("#dialog_it-job-day").dialog({
-            title: "IT Job Day",
+            title: "IT Job Day - 3 hours",
             modal: true,
             width: 800,
             height: 600,
@@ -355,7 +355,7 @@ $(document).ready(function(){
     $('#big-data').click(function(event) {
         event.preventDefault();
         $("#dialog_big-data").dialog({
-            title: "Big Data Conference",
+            title: "Big Data Conference - 2.5 hours",
             modal: true,
             width: 800,
             height: 600,
@@ -387,7 +387,7 @@ $(document).ready(function(){
     $('#project-pres').click(function(event) {
         event.preventDefault();
         $("#dialog_project-pres").dialog({
-            title: "Project Presentation",
+            title: "Project Presentation - 1.5 hours",
             modal: true,
             width: 800,
             height: 600,
@@ -419,7 +419,7 @@ $(document).ready(function(){
     $('#cisco').click(function(event) {
         event.preventDefault();
         $("#dialog_cisco").dialog({
-            title: "Cisco incubator",
+            title: "Cisco incubator - 2 hours",
             modal: true,
             width: 800,
             height: 600,
@@ -451,7 +451,7 @@ $(document).ready(function(){
     $('#odoo-cloud').click(function(event) {
         event.preventDefault();
         $("#dialog_odoo-cloud").dialog({
-            title: "Odoo cloud hosting",
+            title: "Odoo cloud hosting - 1.5 hours",
             modal: true,
             width: 800,
             height: 600,
@@ -482,7 +482,7 @@ $(document).ready(function(){
     $('#speed-dating').click(function(event) {
         event.preventDefault();
         $("#dialog_speed-dating").dialog({
-            title: "Speed dating",
+            title: "Speed dating - 1.5 hours",
             modal: true,
             width: 800,
             height: 600,
