@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36c965ea-13de-4b63-ad04-d118c4b3be4c" name="Default Changelist" comment="add dialogs&#10;&#10;(cherry picked from commit d22deaf36470d695260a5e413a1fa186d641f674)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="359" column="111" selection-start-line="359" selection-start-column="111" selection-end-line="359" selection-end-column="111" />
+            <state relative-caret-position="205">
+              <caret line="433" column="103" selection-start-line="433" selection-start-column="103" selection-end-line="433" selection-end-column="103" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -93,10 +94,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="168" />
-    <option name="y" value="116" />
-    <option name="width" value="1447" />
-    <option name="height" value="953" />
+    <option name="x" value="204" />
+    <option name="y" value="27" />
+    <option name="width" value="1600" />
+    <option name="height" value="1071" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -159,7 +160,7 @@
       <workItem from="1557056061574" duration="3287000" />
       <workItem from="1557151120195" duration="9450000" />
       <workItem from="1557327614980" duration="497000" />
-      <workItem from="1557328526806" duration="5476000" />
+      <workItem from="1557328526806" duration="11724000" />
     </task>
     <task id="LOCAL-00001" summary="test_1">
       <created>1556097011458</created>
@@ -438,7 +439,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52646000" />
+    <option name="totallyTimeSpent" value="58894000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -450,10 +451,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="168" y="116" width="1447" height="953" extended-state="0" />
+    <frame x="204" y="27" width="1600" height="1071" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.05407354" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.048701297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -555,8 +556,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="359" column="111" selection-start-line="359" selection-start-column="111" selection-end-line="359" selection-end-column="111" />
+        <state relative-caret-position="205">
+          <caret line="433" column="103" selection-start-line="433" selection-start-column="103" selection-end-line="433" selection-end-column="103" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
