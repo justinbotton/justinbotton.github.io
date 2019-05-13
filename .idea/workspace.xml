@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36c965ea-13de-4b63-ad04-d118c4b3be4c" name="Default Changelist" comment="add dialogs&#10;&#10;(cherry picked from commit d22deaf36470d695260a5e413a1fa186d641f674)">
+      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Botton_Justin_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Botton_Justin_CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/linkedin.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="587" column="40" selection-start-line="587" selection-start-column="40" selection-end-line="587" selection-end-column="40" />
+            <state relative-caret-position="371">
+              <caret line="102" column="40" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -48,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/adjustement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10824">
+            <state relative-caret-position="6144">
               <caret line="484" column="35" selection-start-line="484" selection-start-column="35" selection-end-line="484" selection-end-column="35" />
             </state>
           </provider>
@@ -57,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34056">
-              <caret line="1419" column="424" selection-start-line="1419" selection-start-column="424" selection-end-line="1419" selection-end-column="424" />
+            <state relative-caret-position="701">
+              <caret line="1450" column="19" lean-forward="true" selection-start-line="1450" selection-start-column="19" selection-end-line="1450" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -86,16 +89,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/layout.css" />
         <option value="$PROJECT_DIR$/js/adjustement.js" />
+        <option value="$PROJECT_DIR$/css/layout.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="640" />
-    <option name="y" value="48" />
-    <option name="width" value="1158" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="147" />
+    <option name="y" value="80" />
+    <option name="width" value="1690" />
     <option name="height" value="1079" />
   </component>
   <component name="ProjectView">
@@ -159,7 +162,7 @@
       <workItem from="1557056061574" duration="3287000" />
       <workItem from="1557151120195" duration="9450000" />
       <workItem from="1557327614980" duration="497000" />
-      <workItem from="1557328526806" duration="19563000" />
+      <workItem from="1557328526806" duration="20605000" />
     </task>
     <task id="LOCAL-00001" summary="test_1">
       <created>1556097011458</created>
@@ -438,7 +441,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66733000" />
+    <option name="totallyTimeSpent" value="67775000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -450,10 +453,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="747" y="0" width="1158" height="1087" extended-state="0" />
+    <frame x="147" y="80" width="1690" height="1079" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.068306014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.04601227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -553,24 +556,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/layout.css">
+    <entry file="file://$PROJECT_DIR$/js/adjustement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34056">
-          <caret line="1419" column="424" selection-start-line="1419" selection-start-column="424" selection-end-line="1419" selection-end-column="424" />
+        <state relative-caret-position="6144">
+          <caret line="484" column="35" selection-start-line="484" selection-start-column="35" selection-end-line="484" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/adjustement.js">
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10824">
-          <caret line="484" column="35" selection-start-line="484" selection-start-column="35" selection-end-line="484" selection-end-column="35" />
+        <state relative-caret-position="701">
+          <caret line="1450" column="19" lean-forward="true" selection-start-line="1450" selection-start-column="19" selection-end-line="1450" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="587" column="40" selection-start-line="587" selection-start-column="40" selection-end-line="587" selection-end-column="40" />
+        <state relative-caret-position="371">
+          <caret line="102" column="40" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />

@@ -1445,3 +1445,8 @@ fieldset[disabled] .btn-theme {
 #exp{
   padding-top: 0;
 }
+
+.pp{
+  border-radius: 5px;
+  margin-top: 30px;
+}
