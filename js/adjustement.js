@@ -131,7 +131,7 @@ $(document).ready(function(){
     $('#c').click(function(event) {
         event.preventDefault();
         $("#dialog_c").dialog({
-            title: "C",
+            title: "C - 15 hours",
             modal: true,
             width: 800,
             height: 600,
@@ -607,7 +607,7 @@ $(document).ready(function(){
     $('#win-serv').click(function(event) {
         event.preventDefault();
         $("#dialog_win-serv").dialog({
-            title: "Windows Server - 10 hours",
+            title: "Windows Server - 16 hours",
             modal: true,
             width: 800,
             height: 600,
